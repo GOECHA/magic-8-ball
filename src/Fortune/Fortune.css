@@ -1,0 +1,19 @@
+.fortune-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle, rgba(19,142,167,1) 0%, rgba(61,59,158,1) 25%, rgba(39,39,163,1) 48%, rgba(2,0,36,1) 95%);
+  clip-path: polygon(100% 0, 50% 100%, 0 0%);
+  height: 220px;
+  width: 250px;
+}
+
+
+p{ 
+    color: white;
+    margin: 0%;
+    margin-top: -40px;
+    max-width: 80px;
+    font-size: 14pt;
+
+}

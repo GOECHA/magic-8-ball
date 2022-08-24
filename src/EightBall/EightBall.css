@@ -1,0 +1,93 @@
+.eight-ball-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  width: 100%;
+}
+
+
+.eight-ball {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: purple;
+    box-shadow: 24px 10px 9px rgb(147 36 202 / 25%);
+    --shadow-color: hsl(600deg 90% 70%);
+    margin-top: 100px;
+    border: solid 3px rgb(172, 4, 172);
+    cursor: pointer;
+}
+
+
+.ball-shine{
+  width: 100px;
+  height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(250,254,255, .5) 0%, rgb(239, 163, 215, .5) 16%, rgb(246, 28, 213, .3) 40%, rgb(172, 4, 172, .2) 82%) ;
+  margin-top: -80px;
+  margin-left: -160px;
+  transform: skew(31deg, 340deg);
+}
+
+
+
+  .fortune-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: black;
+    border: solid 1px black;
+    box-shadow: 2.0px 2.0px 2.0px hsl(0deg 0% 0% / 0.25);
+    --shadow-color: hsl(600deg 90% 70%);
+    margin-top: -4px;
+    padding: .2rem;
+    border: solid 4px rgb(172, 4, 172);
+  }
+
+
+
+.shake-btn {
+  background-color: #000000;
+  border-radius: 10%;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 0;
+  min-height: 60px;
+  min-width: 30px;
+  padding: 16px 24px;
+  text-align: center;
+  width: 20%;
+  height: 5%;
+  margin-top: 1em;
+}
+
+/* .shake-btn:disabled {
+  pointer-events: none;
+}
+
+.shake-btn:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.shake-btn:active {
+  box-shadow: none;
+  transform: translateY(0);
+} */
+
+/* .Fortune {
+  display: flex;
+  flex-wrap: wrap;
+} */
