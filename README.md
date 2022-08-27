@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Magic-8-Ball
+## For All Your Dev Decisions!
+
+
+![2022-08-10 08 52 38](https://media.giphy.com/media/zGTXjEkmpJ75mRqEak/giphy.gif)
+
+- [Deployed Link] (https://magic-8-ball-cg.herokuapp.com/)
+
+Chantal Goethals 
+
+- [GitHub Chantal Goethals](https://github.com/GOECHA)
+- [linkedIn Chantal Goethals](https://www.linkedin.com/in/chantalgoethalsgoecha/)
+
+
+https://media.giphy.com/media/zGTXjEkmpJ75mRqEak/giphy.gif
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
