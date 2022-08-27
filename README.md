@@ -4,7 +4,7 @@
 
 ![2022-08-10 08 52 38](https://media.giphy.com/media/zGTXjEkmpJ75mRqEak/giphy.gif)
 
-- [Deployed Link] (https://magic-8-ball-cg.herokuapp.com/)
+- [Deployed Link](https://magic-8-ball-cg.herokuapp.com/)
 
 Chantal Goethals 
 
