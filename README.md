@@ -12,8 +12,6 @@ Chantal Goethals
 - [linkedIn Chantal Goethals](https://www.linkedin.com/in/chantalgoethalsgoecha/)
 
 
-https://media.giphy.com/media/zGTXjEkmpJ75mRqEak/giphy.gif
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
